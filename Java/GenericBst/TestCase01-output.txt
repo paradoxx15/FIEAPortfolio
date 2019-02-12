@@ -1,5 +1,0 @@
-Hooray!
-Hooray!
-In-order Traversal: 3 6 43 52 54 55 67 74 90 99
-Pre-order Traversal: 90 54 52 6 3 43 74 55 67 99
-Post-order Traversal: 3 43 6 52 67 55 74 54 99 90
